@@ -1,0 +1,23 @@
+{
+  "name": "vue-typescript-sandbox",
+  "version": "1.0.0",
+  "description": "⚡ A simple example demonstrating data binding, event handling, forms, and routing using TypeScript.",
+  "keywords": [
+    "vue-router",
+    "vue",
+    "typescript"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "vue-router": "3.0.1",
+    "vue-property-decorator": "6.0.0",
+    "vue-class-component": "6.1.0",
+    "vue-chartjs": "3.0.2",
+    "vue": "2.5.2",
+    "typescript": "2.6.2",
+    "ts-loader": "3.2.0",
+    "sass-loader": "6.0.6",
+    "node-sass": "4.7.2",
+    "chart.js": "2.7.1"
+  }
+}
